@@ -1,0 +1,1 @@
+#prints ["john", "peter"]
