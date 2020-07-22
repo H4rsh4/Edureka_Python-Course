@@ -1,3 +1,4 @@
+
 res = []
 for num in range(1000, 3001):
     digits = [i for i in str(num)]
