@@ -1,0 +1,9 @@
+edu-py/
+
+edu/
+
+.ipynb_checkpoints/
+
+Data Sources/
+
+*.zip
