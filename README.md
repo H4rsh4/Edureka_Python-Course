@@ -13,16 +13,10 @@
 |6 |Introduction to Machine Learning with Python               |
 |7 |Supervised Learning - I                                    |
 |8 |Dimensionality Reduction                                   |
-|9 |-----                                                      |
-|10|-----                                                      |
-|11|-----                                                      |
-|12|-----                                                      |
-|13|-----                                                      |
-|14|-----                                                      |
-|15|-----                                                      |
-|16|-----                                                      |
-|17|-----                                                      |
-|18|-----                                                      |
-|19|-----                                                      |
-|20|-----                                                      |
-|21|-----                                                      |
+|9 |Supervised Learning - II                                   |
+|10|Unsupervised Learning                                      |
+|11|Association Rules Mining and Recommendation Systems        |
+|12|ReinForcement Learning                                     |
+|13|Time Series                                                |
+|14|Model Boosting                                             |
+|15|Certification Project                                      |
